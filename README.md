@@ -5,16 +5,16 @@ Creating fractals using Dynamical Systems
 ### Afilliation
 
 
-# Problem
+## Problem
 
 
-# Requeriments
+## Requeriments
 
 
-# Toolset
+## Toolset
 
 
-# References
+## References
 
 
-# Conclusions
+## Conclusions
